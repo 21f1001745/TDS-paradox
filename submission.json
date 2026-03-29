@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal, minimalist wide scene set in a vast dark open space resembling a night sky or cosmic void. Human figures are positioned like stars in a precise geometric constellation, softly illuminated against deep darkness. A small number of central figures glow intensely brighter and act as hubs, each surrounded by many distant individuals. Subtle, thin beams of light or directional body orientation connect each surrounding individual to only one central figure. No lateral connections exist between outer individuals. Most figures stand isolated, evenly spaced, and connected to a single highly connected hub. The composition creates a strong imbalance: a few highly connected glowing centers and many minimally connected individuals. The spatial layout is intentional, geometric, and slightly unnatural. The viewer should immediately perceive that most individuals are linked to someone far more connected than themselves. Tone is quiet, surreal, slightly uncanny, like a frozen human network in space. Cinematic wide-angle composition, high contrast, soft glow lighting, deep shadows, ultra-clean background, no environment details. No text, no symbols, no charts, no diagrams, no labels, no numbers.",
+  "model": "DALL·E 3",
+  "paradox": "Friendship Paradox",
+  "visual_logic": "A small number of central figures are connected to many others, while most individuals are connected to only one central figure and not to each other. This creates a skewed structure where most are linked to someone more connected than themselves."
+  "publish_email": true 
+}
