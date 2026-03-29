@@ -1,0 +1,2 @@
+# TDS-paradox
+Friendship paradox
